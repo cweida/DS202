@@ -1,0 +1,31 @@
+---
+title: "hw1.Rmd"
+author: "Chase Weida; Github: cweida"
+date: 1/15/2020
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Data Science Related Career
+    Need: 1) Link
+          2) Image
+          3) Italicized and Bolded word
+
+# R Code Version Check
+I am running:
+
+
+```{r}
+version
+```
+    
+# Git Version Check
+I am running Git version:
+```{bash}
+git --version
+```
+
+
+    
